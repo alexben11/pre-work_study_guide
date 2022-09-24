@@ -1,2 +1,2 @@
 # pre-work_study_guide
-A study guide for my pre-work assignmen
+A study guide for my pre-work assignment
